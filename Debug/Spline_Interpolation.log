@@ -1,0 +1,3 @@
+﻿  Spline_Interpolation.cpp
+C:\Users\toyoz\source\repos\Spline_Interpolation\Spline_Interpolation.cpp(49,20): warning C4018:  '<': signed と unsigned の数値を比較しようとしました。
+  Spline_Interpolation.vcxproj -> C:\Users\toyoz\source\repos\Spline_Interpolation\Debug\Spline_Interpolation.exe
